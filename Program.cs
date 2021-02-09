@@ -32,7 +32,7 @@ namespace DIO.Bank
                     case "5":
                         Depositar();
                         break;
-                    case "Q":
+                    case "c":
                         Console.Clear();
                         break;
 
